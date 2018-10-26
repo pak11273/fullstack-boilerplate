@@ -2,5 +2,9 @@
   "name": "fullstack-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
+  "private": true,
+  "repository": "git@github.com:pak11273/fullstack-boilerplate.git",
+  "author": "pak11273 <pak11273@gmail.com>",
+  "workspaces": ["client", "server"],
   "license": "MIT"
 }
